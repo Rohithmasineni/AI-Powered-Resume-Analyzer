@@ -52,7 +52,8 @@ is slow, repetitive, and prone to human error.
 
 The focus was not just on automation — but on building a reliable structured extraction pipeline using LangChain.
 
-🔄 End-to-End Workflow
+### 🔄 End-to-End Workflow
+
 **🗂 Resume Input**
 
 User uploads a ZIP folder containing:
